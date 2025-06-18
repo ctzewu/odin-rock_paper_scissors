@@ -1,1 +1,1 @@
-# odin-rock_paper_scissors
+create cli based rock paper scissors game in javascript for odin project
